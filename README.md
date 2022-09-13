@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/eikke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eikke" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicolastrangez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolastrangez" height="30" width="40" /></a>
 <a href="https://instagram.com/nicolast__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicolast__" height="30" width="40" /></a>
-<a href="/https://nicolast.be/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nicolast.be/feed.xml" height="30" width="40" /></a>
+<a href="https://nicolast.be/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nicolast.be/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
