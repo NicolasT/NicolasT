@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/eikke" target="blank"><img src="https://img.shields.io/twitter/follow/eikke?logo=twitter&style=for-the-badge" alt="eikke" /></a> </p>
 
-- 🔭 I’m currently working on [landlock-hs](https://github.com/NicolasT/landlock-hs) & [xinU](https://github.com/NicolasT/xinu)
+- 🔭 I’m currently dabbling with methods of verifying distributed systems implementations in real-world engineering settings. Sounds interesting? Reach out!
 
 - 👨‍💻 All of my projects are available at [https://github.com/NicolasT](https://github.com/NicolasT)
 
